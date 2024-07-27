@@ -1,0 +1,11 @@
+fastapi
+redis
+pymongo
+bunnet
+beanie
+python-jose
+requests
+python-magic-bin==0.4.14
+argon2-cffi
+pycryptodome
+fastapi-pagination

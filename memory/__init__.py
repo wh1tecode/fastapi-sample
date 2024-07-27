@@ -1,0 +1,1 @@
+from memory.redis import RedisSession
